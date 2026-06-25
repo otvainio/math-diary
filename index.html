@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vainio Matematiikka</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink: #1a1a1a;
+      --muted: #6b6b6b;
+      --line: #e8e8e8;
+      --bg: #fafaf8;
+      --accent: #2d5a8e;
+    }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--ink);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      padding: 4rem 2rem 2rem;
+      max-width: 680px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    header h1 {
+      font-size: clamp(1.8rem, 5vw, 2.8rem);
+      font-weight: normal;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+    }
+
+    header h1 span {
+      color: var(--accent);
+    }
+
+    header p {
+      margin-top: 0.75rem;
+      color: var(--muted);
+      font-size: 1rem;
+      font-style: italic;
+    }
+
+    nav {
+      margin-top: 2rem;
+      border-top: 1px solid var(--line);
+      padding-top: 1.5rem;
+    }
+
+    nav a {
+      display: inline-block;
+      margin-right: 1.5rem;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    nav a:hover { color: var(--accent); }
+
+    main {
+      flex: 1;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 3rem 2rem 4rem;
+      width: 100%;
+    }
+
+    .intro {
+      font-size: 1.15rem;
+      line-height: 1.8;
+      color: var(--ink);
+      margin-bottom: 3rem;
+    }
+
+    .intro strong {
+      color: var(--accent);
+      font-weight: normal;
+      font-style: italic;
+    }
+
+    .entries h2 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+      margin-bottom: 1.5rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-weight: normal;
+    }
+
+    .entry {
+      padding: 1.5rem 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .entry:last-child { border-bottom: 1px solid var(--line); }
+
+    .entry-meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      margin-bottom: 0.4rem;
+    }
+
+    .entry h3 {
+      font-size: 1.15rem;
+      font-weight: normal;
+      margin-bottom: 0.5rem;
+    }
+
+    .entry h3 a {
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    .entry h3 a:hover { color: var(--accent); }
+
+    .entry p {
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }
+
+    .formula {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 1.5rem 2rem;
+      margin: 2rem 0;
+      text-align: center;
+      font-size: 1.3rem;
+      color: var(--accent);
+      font-style: italic;
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      padding: 2rem;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.8rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Vainio <span>Matematiikka</span></h1>
+  <p>Päiväkirja matemaattisista ajatuksista</p>
+  <nav>
+    <a href="/">Etusivu</a>
+    <a href="#merkinnät">Merkinnät</a>
+    <a href="#tietoa">Tietoa</a>
+  </nav>
+</header>
+
+<main>
+  <div class="intro">
+    Tämä on paikka, jossa matematiikka kohtaa arjen. Tallennan tänne
+    <strong>oivalluksia</strong>, ratkaisuja ja kysymyksiä — isoja ja pieniä.
+    Matematiikka ei ole vain laskemista, se on tapa nähdä maailma.
+  </div>
+
+  <div class="formula">
+    ∑<sub>n=1</sub><sup>∞</sup> 1/n² = π²/6
+  </div>
+
+  <div class="entries" id="merkinnät">
+    <h2>Viimeisimmät merkinnät</h2>
+
+    <div class="entry">
+      <div class="entry-meta">25. kesäkuuta 2026</div>
+      <h3><a href="#">Aloitus</a></h3>
+      <p>Tämä sivusto on juuri avattu. Ensimmäiset merkinnät tulevat pian.</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>Vainio Matematiikka &mdash; Otso Vainio</p>
+</footer>
+
+</body>
+</html>

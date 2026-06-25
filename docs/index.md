@@ -1,5 +1,6 @@
 ---
 icon: lucide/book-open
+date: 2026-06-25
 ---
 
 # Vainio Matematiikka
@@ -13,13 +14,3 @@ Matematiikka ei ole vain laskemista. Se on tapa nähdä maailma.
 ## Viimeisimmät merkinnät
 
 Sivusto on juuri avattu. Ensimmäiset merkinnät tulevat pian.
-
----
-
-## Euler'n identiteetti
-
-$$
-e^{i\pi} + 1 = 0
-$$
-
-Yksi kauneimmista kaavoista matematiikassa — yhdistää viisi perusvakiota yhdeksi lausekkeeksi.

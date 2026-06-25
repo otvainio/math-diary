@@ -5,24 +5,20 @@ date: 2026-06-25
 
 # Neliöiden ero
 
-Yksi algebran peruskaava:
+\(1^2 = 1\)
 
-$$
-a^2 - b^2 = (a+b)(a-b)
-$$
+\(2^2 = 4\)
 
-Todistus on suoraviivainen — lavennetaan oikea puoli:
+\(3^2 = 9\)
 
-$$
-(a+b)(a-b) = a^2 - ab + ab - b^2 = a^2 - b^2
-$$
+\(4^2 = 16\)
 
-Termit \(-ab\) ja \(+ab\) kumoavat toisensa, ja jäljelle jää alkuperäinen lauseke.
+Kun tutkimme näitä lukuja, huomaamme, että neliöiden ero kasvaa aina kahdella
 
-## Esimerkki
+*Voimme todistaa tämän :*
 
-Lasketaan \(99^2 - 1^2\) ilman laskinta:
+\((n+1)^2 = n^2 + 2n + 1\)
 
-$$
-99^2 - 1^2 = (99+1)(99-1) = 100 \cdot 98 = 9800
-$$
+Vähennetään alkuperäinen \(n^2\), jotta tiedemmä kuinka paljon luku kasvoi.
+
+\(n^2 + 2n + 1 - n^2 = 2n + 1\)

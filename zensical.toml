@@ -10,6 +10,7 @@ nav = [
   { "Neliöiden ero" = "neliöiden-ero.md" },
   { "Kateettien yhtäsuuruuslause" = "kateettien-yhtasuuruuslause.md" },
   { "Kaksi" = "kaksi.md" },
+  { "Neliön erotus potenssiin ääretön" = "neliön-erotus-potenssiin-ääretön.md" },
 ]
 
 extra_javascript = [

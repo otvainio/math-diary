@@ -1,6 +1,5 @@
 [project]
-site_name = "Vainio Matematiikka"
-site_description = "Päiväkirja matemaattisista ajatuksista"
+site_name = "Vainion Matematiikka"
 site_author = "Otso Vainio"
 site_url = "https://otvainio.github.io/math-diary/"
 copyright = "Copyright &copy; 2026 Otso Vainio"

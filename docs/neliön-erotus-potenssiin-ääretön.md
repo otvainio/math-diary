@@ -35,10 +35,10 @@ $$
 (-1)(-1)(-1)(-1)\ldots
 $$
 
-Tällöin ei ole varmaa mitä arvoa lauseke enää lähestyy. Jos pysähdymme parilliseen määrään termejä lauseke on 1 ja jos parittomaan niin se on −1. Voimme myös päätyä lukujen keskiarvoon eli 0.
+Tällöin ei ole varmaa minkä arvon lauseke saa. Jos pysähdymme parilliseen määrään termejä lauseke on 1 ja jos parittomaan niin se on −1.
 
-Jos taas \(x < -\sqrt{2}\) tai \(x > \sqrt{2}\) niin lauseke hajaantuu loputtomaan.
+Jos taas \(x < -\sqrt{2}\) tai \(x > \sqrt{2}\) niin lauseke hajaantuu äärettömään.
 
----
+Kun taas jos \(-\sqrt{2} < x < \sqrt{2}\) lauseke saa arvon 0.
 
-Tämä löytämäni sarja on erittäin mielenkiintoinen ja käyttäytyy osittain samalla tavalla kuin Grandin loputon summa. Grandin loputon summa jakaa vastauksen epävarmuuden oman summani kanssa.
+Tämä löytämäni sarja on erittäin mielenkiintoinen ja outo.

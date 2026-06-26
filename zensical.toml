@@ -9,6 +9,7 @@ nav = [
   { "Etusivu" = "index.md" },
   { "Neliöiden ero" = "neliöiden-ero.md" },
   { "Kateettien yhtäsuuruuslause" = "kateettien-yhtasuuruuslause.md" },
+  { "Kaksi" = "kaksi.md" },
 ]
 
 extra_javascript = [

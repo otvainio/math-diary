@@ -5,5 +5,5 @@ date: 2026-06-25
 
 # Vainion Matematiikka
 
-*25. kesäkuuta 2026*
+*Merkintöjä matematiikasta — sarjoja, polynomeja ja muita löytöjä.*
 

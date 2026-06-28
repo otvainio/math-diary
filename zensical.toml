@@ -13,6 +13,7 @@ nav = [
   { "Al-gebra" = "al-gebra.md" },
   { "Kokonaisjuuret" = "kokonaisjuuret.md" },
   { "Zetasta piihin" = "zetasta-piihin.md" },
+  { "Phi" = "phi.md" },
 ]
 
 extra_javascript = [

@@ -12,6 +12,7 @@ nav = [
   { "Neliön erotus potenssiin ääretön" = "neliön-erotus-potenssiin-ääretön.md" },
   { "Al-gebra" = "al-gebra.md" },
   { "Kokonaisjuuret" = "kokonaisjuuret.md" },
+  { "Zetasta piihin" = "zetasta-piihin.md" },
 ]
 
 extra_javascript = [

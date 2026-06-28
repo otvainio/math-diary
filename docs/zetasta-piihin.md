@@ -5,6 +5,8 @@ date: 2026-06-28
 
 # Zetasta piihin
 
+*28. kesäkuuta 2026*
+
 Tutkitaan eri Riemannin \(\zeta\) funktion arvoja \(\displaystyle\sum_{n=1}^{\infty} \frac{1}{n^k}\) kun \(k\) on parillinen luku.
 
 Huomaamme hienon kuvion:

@@ -5,6 +5,8 @@ date: 2026-06-28
 
 # Juurikaava
 
+*28. kesäkuuta 2026*
+
 Voimme laskea yleisen kaavan äärettömiin neliöjuuriin, joissa on toistuva jäsen.
 
 $$O = \sqrt{n + \sqrt{n + \sqrt{n + \sqrt{n+\ldots}}}} \quad n \in \mathbb{R}_{\geq 0}$$

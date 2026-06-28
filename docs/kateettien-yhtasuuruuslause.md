@@ -5,6 +5,8 @@ date: 2026-06-25
 
 # Kateettien yhtäsuuruuslause
 
+*25. kesäkuuta 2026*
+
 Tutkitaan tasakylkistä suorakulmaista kolmiota.
 
 Pythagoran lauseen mukaan:

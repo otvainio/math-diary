@@ -5,6 +5,8 @@ date: 2026-06-26
 
 # Kaksi
 
+*26. kesäkuuta 2026*
+
 $$
 2 = \sqrt{1 + \sqrt{6 + \sqrt{12 + \sqrt{20 + \sqrt{30 + \sqrt{42 + \ldots}}}}}}
 $$

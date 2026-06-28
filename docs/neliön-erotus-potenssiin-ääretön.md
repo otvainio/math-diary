@@ -5,6 +5,8 @@ date: 2026-06-26
 
 # Neliön erotus potenssiin ääretön
 
+*26. kesäkuuta 2026*
+
 Tutkitaan lauseketta äärettömään:
 
 $$

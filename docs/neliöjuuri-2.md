@@ -5,6 +5,8 @@ date: 2026-06-28
 
 # Neliöjuuri 2
 
+*28. kesäkuuta 2026*
+
 Oletetaan että \(\sqrt{2}\) on rationaalinen.
 
 $$\sqrt{2} = \frac{o}{t} \quad \text{syt}(o, t) = 1$$

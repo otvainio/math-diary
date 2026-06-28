@@ -5,6 +5,8 @@ date: 2026-06-28
 
 # Phi
 
+*28. kesäkuuta 2026*
+
 Kultaisen leikkauksen voi laskea usealla tavalla sillä se esiintyy useasse eri matematiikan alalla.
 
 Voimme laskea tarkon arvon kultaiselle leikkaukselle sisäkkäisen juuren avulla:

@@ -5,6 +5,8 @@ date: 2026-06-27
 
 # Kokonaisjuuret
 
+*27. kesäkuuta 2026*
+
 Tutkitaan polynomia \((x^2 - n)\)
 
 Kysymys kuuluu: Millä luvun \(n\) arvoilla polynomia voidaan jakaa tekijöiksi, joiden juuret ovat kokonaislukuja.

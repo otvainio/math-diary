@@ -14,6 +14,7 @@ nav = [
   { "Kokonaisjuuret" = "kokonaisjuuret.md" },
   { "Zetasta piihin" = "zetasta-piihin.md" },
   { "Phi" = "phi.md" },
+  { "Neliöjuuri 2" = "neliöjuuri-2.md" },
 ]
 
 extra_javascript = [

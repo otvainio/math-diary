@@ -15,6 +15,7 @@ nav = [
   { "Zetasta piihin" = "zetasta-piihin.md" },
   { "Phi" = "phi.md" },
   { "Neliöjuuri 2" = "neliöjuuri-2.md" },
+  { "Juurikaava" = "juurikaava.md" },
 ]
 
 extra_javascript = [

@@ -7,3 +7,5 @@ date: 2026-06-25
 
 *Merkintöjä matematiikasta — sarjoja, polynomeja ja muita löytöjä.*
 
+*25. kesäkuuta 2026*
+

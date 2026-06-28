@@ -1,6 +1,6 @@
 ---
 icon: lucide/pencil
-date: 2026-06-27
+date: 2026-06-28
 ---
 
 # Neliöjuuri 2

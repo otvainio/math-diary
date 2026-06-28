@@ -15,7 +15,7 @@ Kun käytämme neliön erotuksen kaavaa huomaamme, että
 
 $$(x^2 - n) = (x + \sqrt{n})(x - \sqrt{n})$$
 
-Koska kaavan mukaan polynomi jakautuu luvun \(n\) neliöjuuriksi, jotta saamme kokonaisluku vastauksen tarvitsemme luvuksi \(n\) täydellisen neliön.
+Koska kaavan mukaan polynomi jakautuu luvun \(n\) neliöjuuriksi, jotta saamme kokonaislukuvastauksen tarvitsemme luvuksi \(n\) täydellisen neliön.
 
 Jos taas pelkkä rationaaliluku riittää, voi luku \(n\) myös olla kahden täydellisen neliön osamäärä.
 
@@ -39,4 +39,4 @@ $$x^k = n \quad \Big| \, \sqrt[k]{\phantom{x}}$$
 
 $$x = \sqrt[k]{n} \qquad \left(\pm\sqrt[k]{n} \text{ jos } k \equiv 0 \pmod{2}\right)$$
 
-Jotta saamme kokonaisluku ratkaisun, tarvitsemme luvun \(n\) olla täydellinen \(k\) asteen luku. Jos meille riittää rationaaliluku, voi luku olla myös kahden täydellisen \(k\) asteen luvun välinen rationaaliluku.
+Jotta saamme kokonaislukuratkaisun, tarvitsemme luvun \(n\) olla täydellinen \(k\) asteen luku. Jos meille riittää rationaaliluku, voi luku olla myös kahden täydellisen \(k\) asteen luvun välinen rationaaliluku.

@@ -27,7 +27,7 @@ $$\sum_{n=1}^{5} \frac{1}{n^4} = 1 + \frac{1}{16} + \frac{1}{81} + \frac{1}{256}
 
 $$\sum_{n=1}^{5} \frac{1}{n^6} = 1 + \frac{1}{64} + \frac{1}{729} + \frac{1}{4096} + \frac{1}{15625} = 1{,}01730\ldots$$
 
-Lasketaan kaikkien pii approksimaatio viidellä termillä johtamalla kaava alkuperäisestä summasta.
+Lasketaan kaikkien piiapproksimaatio viidellä termillä johtamalla kaava alkuperäisestä summasta.
 
 ---
 

@@ -11,7 +11,7 @@ Voimme laskea yleisen kaavan äärettömiin neliöjuuriin, joissa on toistuva j�
 
 $$O = \sqrt{n + \sqrt{n + \sqrt{n + \sqrt{n+\ldots}}}} \quad n \in \mathbb{R}_{\geq 0}$$
 
-$$O = \sqrt{n + O} \quad \Big| \, ()^2 \text{ neliön korotusehot}: n + O \geq 0$$
+$$O = \sqrt{n + O} \quad \Big| \, ()^2 \text{ neliön korotusehdot}: n + O \geq 0$$
 
 $$O^2 = n + O$$
 

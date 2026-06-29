@@ -16,6 +16,7 @@ nav = [
   { "Phi" = "phi.md" },
   { "Neliöjuuri 2" = "neliöjuuri-2.md" },
   { "Juurikaava" = "juurikaava.md" },
+  { "Kolmiota ja summia" = "kolmiota-ja-summia.md" },
 ]
 
 extra_javascript = [

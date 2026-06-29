@@ -13,7 +13,7 @@ Tasasivuisen kolmion sivun pituus on 1. Sen sisään piirretään toinen tasasiv
 
 Lasketaan ensiksi tasasivuisen kolmion pinta-ala.
 
-![Tasasivuinen kolmio](images/kolmio1.svg)
+![Tasasivuinen kolmio](images/Kolmio1.png)
 
 Pythagoraan lauseesta saamme korkeuden:
 
@@ -31,7 +31,7 @@ $$A = 2 \cdot \frac{pk}{2} = 2 \cdot \frac{\frac{1}{2} \cdot \frac{\sqrt{3}}{2}}
 
 ---
 
-![Sisäinen kolmio](images/kolmio2.svg)
+![Sisäinen kolmio](images/Kolmio2.png)
 
 Huomaamme, että uuden kolmion pinta-ala on neljäsosa edellisen kolmion pinta-alasta. Voimme myös todistaa tämän laskemalla:
 

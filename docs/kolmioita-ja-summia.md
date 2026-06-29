@@ -3,7 +3,7 @@ icon: lucide/pencil
 date: 2026-06-30
 ---
 
-# Kolmiota ja summia
+# Kolmioita ja summia
 
 *30. kesäkuuta 2026*
 
@@ -12,6 +12,8 @@ Tasasivuisen kolmion sivun pituus on 1. Sen sisään piirretään toinen tasasiv
 ---
 
 Lasketaan ensiksi tasasivuisen kolmion pinta-ala.
+
+![Tasasivuinen kolmio](images/kolmio1.svg)
 
 Pythagoraan lauseesta saamme korkeuden:
 
@@ -28,6 +30,8 @@ Koska kolmio jakautuu kahteen yhtä suureen osaan:
 $$A = 2 \cdot \frac{pk}{2} = 2 \cdot \frac{\frac{1}{2} \cdot \frac{\sqrt{3}}{2}}{2} = \frac{\sqrt{3}}{4}$$
 
 ---
+
+![Sisäinen kolmio](images/kolmio2.svg)
 
 Huomaamme, että uuden kolmion pinta-ala on neljäsosa edellisen kolmion pinta-alasta. Voimme myös todistaa tämän laskemalla:
 

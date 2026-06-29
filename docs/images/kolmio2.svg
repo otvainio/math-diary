@@ -1,0 +1,19 @@
+<svg viewBox="0 0 320 310" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif" font-style="italic">
+  <!-- Outer triangle -->
+  <polygon points="160,20 20,270 300,270" fill="#f0f0f0" stroke="black" stroke-width="2.5"/>
+  <!-- Inner inverted triangle -->
+  <polygon points="90,145 230,145 160,270" fill="none" stroke="black" stroke-width="2.5"/>
+  <!-- Inner height line -->
+  <line x1="160" y1="145" x2="160" y2="270" stroke="black" stroke-width="1.5"/>
+  <!-- Labels: outer sides -->
+  <text x="48" y="100" font-size="20">½</text>
+  <text x="242" y="100" font-size="20">½</text>
+  <!-- Left lower outer side -->
+  <text x="28" y="210" font-size="20">½</text>
+  <!-- Inner height -->
+  <text x="118" y="215" font-size="20">x</text>
+  <!-- Bottom labels -->
+  <text x="42" y="300" font-size="20">¼</text>
+  <text x="132" y="300" font-size="20">¼</text>
+  <text x="222" y="300" font-size="20">½</text>
+</svg>

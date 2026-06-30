@@ -19,9 +19,6 @@ nav = [
       { "Juurikaava" = "juurikaava.md" },
       { "Kolmioita ja summia" = "kolmioita-ja-summia.md" },
   ]},
-  { "Fysiikka" = [
-      { "Etusivu" = "fysiikka/index.md" },
-  ]},
 ]
 
 extra_javascript = [

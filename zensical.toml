@@ -6,17 +6,22 @@ copyright = "Copyright &copy; 2026 Otso Vainio"
 
 nav = [
   { "Etusivu" = "index.md" },
-  { "Neliöiden ero" = "neliöiden-ero.md" },
-  { "Kateettien yhtäsuuruuslause" = "kateettien-yhtasuuruuslause.md" },
-  { "Kaksi" = "kaksi.md" },
-  { "Neliön erotus potenssiin ääretön" = "neliön-erotus-potenssiin-ääretön.md" },
-  { "Al-gebra" = "al-gebra.md" },
-  { "Kokonaisjuuret" = "kokonaisjuuret.md" },
-  { "Zetasta piihin" = "zetasta-piihin.md" },
-  { "Phi" = "phi.md" },
-  { "Neliöjuuri 2" = "neliöjuuri-2.md" },
-  { "Juurikaava" = "juurikaava.md" },
-  { "Kolmioita ja summia" = "kolmioita-ja-summia.md" },
+  { "Matematiikka" = [
+      { "Neliöiden ero" = "neliöiden-ero.md" },
+      { "Kateettien yhtäsuuruuslause" = "kateettien-yhtasuuruuslause.md" },
+      { "Kaksi" = "kaksi.md" },
+      { "Neliön erotus potenssiin ääretön" = "neliön-erotus-potenssiin-ääretön.md" },
+      { "Al-gebra" = "al-gebra.md" },
+      { "Kokonaisjuuret" = "kokonaisjuuret.md" },
+      { "Zetasta piihin" = "zetasta-piihin.md" },
+      { "Phi" = "phi.md" },
+      { "Neliöjuuri 2" = "neliöjuuri-2.md" },
+      { "Juurikaava" = "juurikaava.md" },
+      { "Kolmioita ja summia" = "kolmioita-ja-summia.md" },
+  ]},
+  { "Fysiikka" = [
+      { "Etusivu" = "fysiikka/index.md" },
+  ]},
 ]
 
 extra_javascript = [

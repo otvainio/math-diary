@@ -9,7 +9,7 @@ date: 2026-07-02
 
 Tutkitaan neliötä, jonka peitää neljä yhtäsuurta ympyrää.
 
-![Neljä ympyrää neliössä](images/ympyrat-ja-nelio.svg)
+![Neljä ympyrää neliössä](images/ympyrä1.png)
 
 Lasketaan kuinka suuren osan neliön pinta-alasta ympyrät peittävät.
 

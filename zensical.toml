@@ -18,6 +18,7 @@ nav = [
       { "Neliöjuuri 2" = "neliöjuuri-2.md" },
       { "Juurikaava" = "juurikaava.md" },
       { "Kolmioita ja summia" = "kolmioita-ja-summia.md" },
+      { "Ympyrät ja neliö" = "ympyrat-ja-nelio.md" },
   ]},
 ]
 

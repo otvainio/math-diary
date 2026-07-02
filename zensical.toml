@@ -20,6 +20,7 @@ nav = [
       { "Kolmioita ja summia" = "kolmioita-ja-summia.md" },
       { "Ympyrät ja neliö" = "ympyrat-ja-nelio.md" },
       { "√2 + √3 irrationaalinen" = "sqrt2-plus-sqrt3.md" },
+      { "Vanhoja derivaattoja" = "vanhoja-derivaattoja.md" },
   ]},
 ]
 

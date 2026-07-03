@@ -22,6 +22,7 @@ nav = [
       { "√2 + √3 irrationaalinen" = "sqrt2-plus-sqrt3.md" },
       { "Vanhoja derivaattoja" = "vanhoja-derivaattoja.md" },
       { "Pieni polynomi, suuret unelmat" = "pieni-polynomi-suuret-unelmat.md" },
+      { "Matematiikan hienoin kaava" = "matematiikan-hienoin-kaava.md" },
   ]},
 ]
 

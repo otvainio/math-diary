@@ -71,7 +71,7 @@ $$f(2) = e^2 = 7{,}38905\ldots$$
 
 $$f(2) = 1 + \frac{1 \cdot 2}{1!} + \frac{1 \cdot 2^2}{2!} + \frac{1 \cdot 2^3}{3!}$$
 
-$$f(2) = 1 + 2 + 2 + \frac{8}{6} = \frac{38}{6} = \frac{19}{3} = 6{,}33333\ldots$$
+$$f(2) = 1 + 2 + 2 + \frac{8}{6} = \frac{38}{6} = \frac{19}{3} = 6{,}\overline{3}$$
 
 Ero on kasvanut jo yli yksikön.
 
@@ -83,7 +83,7 @@ $$f(10) = e^{10} = 22026{,}46579\ldots$$
 
 $$f(10) = 1 + \frac{1 \cdot 10}{1!} + \frac{1 \cdot 10^2}{2!} + \frac{1 \cdot 10^3}{3!}$$
 
-$$f(10) = 1 + 10 + 50 + \frac{1000}{6} = \frac{1366}{6} = 227{,}66666\ldots$$
+$$f(10) = 1 + 10 + 50 + \frac{1000}{6} = \frac{1366}{6} = 227{,}\overline{6}$$
 
 Approksimaatiofunktio antaa suurella $x$:n arvolla jo todella huonon approksimaation (noin sadasosan alkuperäisestä).
 

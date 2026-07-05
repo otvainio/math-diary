@@ -1,11 +1,11 @@
 ---
 icon: lucide/pencil
-date: 2026-07-03
+date: 2026-07-05
 ---
 
 # Täyttä typeryyttä
 
-*3. heinäkuuta 2026*
+*5. heinäkuuta 2026*
 
 Kokoelma äärettömiä sarjoja kesän kokeiluista. Osalla on kaunis suljettu muoto, osa jättää jälkeensä vain itsepäisen desimaaliluvun.
 

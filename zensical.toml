@@ -23,6 +23,7 @@ nav = [
       { "Vanhoja derivaattoja" = "vanhoja-derivaattoja.md" },
       { "Pieni polynomi, suuret unelmat" = "pieni-polynomi-suuret-unelmat.md" },
       { "Matematiikan hienoin kaava" = "matematiikan-hienoin-kaava.md" },
+      { "Täyttä typeryyttä" = "taytta-typeryytta.md" },
   ]},
 ]
 

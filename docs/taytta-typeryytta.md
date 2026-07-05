@@ -7,10 +7,6 @@ date: 2026-07-05
 
 *5. heinäkuuta 2026*
 
-Kokoelma äärettömiä sarjoja kesän kokeiluista. Osalla on kaunis suljettu muoto, osa jättää jälkeensä vain itsepäisen desimaaliluvun.
-
----
-
 $$\sum_{n=1}^{\infty} \frac{1}{{}^{n}n} = 1 + \frac{1}{4} + \frac{1}{3^{27}} + \ldots = 1{,}25000000000013116\ldots$$
 
 $$\frac{1}{1} - \frac{1}{2} + \frac{4}{9} - \frac{25}{121} + \ldots = 0{,}7850143\ldots$$

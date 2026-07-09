@@ -28,6 +28,7 @@ nav = [
   ]},
   { "Fysiikka" = [
       { "Fysiikka 1" = "fysiikka-1.md" },
+      { "Leibnizin ja Newtonin tavoin" = "leibnizin-ja-newtonin-tavoin.md" },
   ]},
 ]
 

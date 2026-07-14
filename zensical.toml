@@ -25,6 +25,7 @@ nav = [
       { "Matematiikan hienoin kaava" = "matematiikan-hienoin-kaava.md" },
       { "Täyttä typeryyttä" = "taytta-typeryytta.md" },
       { "√2 + √3 + √5 irrationaalinen" = "sqrt2-sqrt3-sqrt5.md" },
+      { "f(x), f'(x), f''(x), f'''(x)…" = "f-x-derivaatat.md" },
   ]},
   { "Fysiikka" = [
       { "Fysiikka 1" = "fysiikka-1.md" },

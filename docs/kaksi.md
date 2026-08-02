@@ -8,7 +8,7 @@ date: 2026-06-26
 *26. kesäkuuta 2026*
 
 $$
-2 = \sqrt{1 + \sqrt{6 + \sqrt{12 + \sqrt{20 + \sqrt{30 + \sqrt{42 + \ldots}}}}}}
+2 = \sqrt{1 + \sqrt{5 + \sqrt{11 + \sqrt{19 + \sqrt{29 + \sqrt{41 + \ldots}}}}}}
 $$
 
 $$

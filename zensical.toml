@@ -27,6 +27,7 @@ nav = [
       { "√2 + √3 + √5 irrationaalinen" = "sqrt2-sqrt3-sqrt5.md" },
       { "f(x), f'(x), f''(x), f'''(x)…" = "f-x-derivaatat.md" },
       { "Vakion geometria" = "vakion-geometria.md" },
+      { "Ympyrä ja juuri" = "ympyra-ja-juuri.md" },
   ]},
   { "Fysiikka" = [
       { "Fysiikka 1" = "fysiikka-1.md" },
